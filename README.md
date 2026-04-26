@@ -25,7 +25,7 @@ Which I vibecoded cuz I dont know how to build macOS apps
 - **Customizable Font Size**: Adjust editor text size with Cmd+/Cmd-
 
 ### Export
-- **Export Entries**: Save journal entries as markdown files***
+- **Export Entries**: Save journal entries as markdown files
 
 ###(DOES NOT WORK YET)
 
