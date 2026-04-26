@@ -26,7 +26,7 @@ Which I vibecoded cuz I dont know how to build macOS apps
 
 ### Export
 - **Export Entries**: Save journal entries as markdown files
-####(DOES NOT WORK YET)
+###(DOES NOT WORK YET)
 
 ### Data Storage
 - **Local File Storage**: Entries stored as markdown files in `~/Library/Containers/tks.JournalApp/Data/Documents/Journal/`
